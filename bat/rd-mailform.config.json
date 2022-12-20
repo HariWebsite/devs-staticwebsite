@@ -1,8 +1,8 @@
 {
   "useSmtp": false,
-  "host": "stmp.gmail.com",
-  "port": 465,
-  "username": "demo@gmail.com",
-  "password": "demopassword",
-  "recipientEmail": "demo@gmail.com"
+  "host": "smtp-relay.sendinblue.com",
+  "port": 587,
+  "username": "kalyanram0542@gmail.com",
+  "password": "phtGIJCOczxjX3YE",
+  "recipientEmail": "testmysite@yopmail.com"
 }
