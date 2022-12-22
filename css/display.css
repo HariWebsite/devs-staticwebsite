@@ -58,10 +58,13 @@ a, a:hover {
   .dropdown {
     position: relative;
     display: inline-block;
+
   }
   
   .dropdown-content {
     margin-left: -25px;
+    margin-top:8px;
+    /* padding-top: 26px; */
     display: none;
     position: absolute;
     background-color: white;
