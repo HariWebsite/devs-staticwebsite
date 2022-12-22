@@ -78,7 +78,7 @@ a, a:hover {
     display: block;
   }
   
-  .dropdown-content a:hover {background-color: #3ccaf5;color: white;}
+  .dropdown-content a:hover {background-color: #0086d4;color: white;}
   
   .dropdown:hover .dropdown-content {display: block;}
   
